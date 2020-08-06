@@ -2,6 +2,8 @@ package com.company.springcloud.service;
 
 import com.company.springcloud.entities.Payment;
 import org.apache.ibatis.annotations.Param;
+import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
 /**
  * @author xianzheTM
